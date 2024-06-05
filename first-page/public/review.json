@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "designation": "Software Engineer",
+      "short_review": "Alice is a dedicated and talented engineer with a knack for solving complex problems.Alice is a dedicated and talented engineer with a knack for solving complex problems.",
+      "picture": "https://as1.ftcdn.net/v2/jpg/04/13/78/98/1000_F_413789846_dafgtNPiQ4ydtYvl8WzChDIPnZ8qmySF.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "designation": "Product Manager",
+      "short_review": "Bob has a strong vision for product development and excellent leadership skills.Alice is a dedicated and talented engineer with a knack for solving complex problems.",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5imc9mByuAFKhMux9bCs5H3uWBDKDpd21Pcsye3m0Bf2hPIDZIb-gQnC6hK3yDR3FLo4&usqp=CAU"
+    },
+    {
+      "id": 3,
+      "name": "Carol Lee",
+      "designation": "UX Designer",
+      "short_review": "Carol's designs are user-friendly and aesthetically pleasing. Henry is skilled at financial planning and analysis. Henry is skilled at financial planning and analysis.",
+      "picture": "https://www.shutterstock.com/image-photo/smiling-businesswoman-looking-camera-webcam-600nw-1302585136.jpg"
+    },
+    {
+      "id": 4,
+      "name": "David Kim",
+      "designation": "Data Scientist",
+      "short_review": "David excels at turning data into actionable insights. Henry is skilled at financial planning and analysis. Henry is skilled at financial planning and analysis.",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwUciQx1GqqaAKZCzI1o4B6larl-nXleD4vjCuVgO9qvF4GcEke2nuUGP-gjbjIqez5AI&usqp=CAU"
+    },
+    {
+      "id": 5,
+      "name": "Eva Martinez",
+      "designation": "Marketing Specialist",
+      "short_review": "Eva's marketing strategies are innovative and effective. Henry is skilled at financial planning and analysis. Henry is skilled at financial planning and analysis.",
+      "picture": "https://as1.ftcdn.net/v2/jpg/04/13/78/98/1000_F_413789846_dafgtNPiQ4ydtYvl8WzChDIPnZ8qmySF.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Franklin White",
+      "designation": "Sales Manager",
+      "short_review": "Franklin has a proven track record in achieving sales targets.Alice is a dedicated and talented engineer with a knack for solving complex problems.",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5imc9mByuAFKhMux9bCs5H3uWBDKDpd21Pcsye3m0Bf2hPIDZIb-gQnC6hK3yDR3FLo4&usqp=CAU"
+    },
+    {
+      "id": 7,
+      "name": "Grace Yang",
+      "designation": "HR Manager",
+      "short_review": "Grace is excellent at managing employee relations and recruitment. Henry is skilled at financial planning and analysis. Henry is skilled at financial planning and analysis.",
+      "picture": "https://as1.ftcdn.net/v2/jpg/04/13/78/98/1000_F_413789846_dafgtNPiQ4ydtYvl8WzChDIPnZ8qmySF.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Henry Thompson",
+      "designation": "Finance Director",
+      "short_review": "Henry is skilled at financial planning and analysis.Alice is a dedicated and talented engineer with a knack for solving complex problems.",
+      "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwUciQx1GqqaAKZCzI1o4B6larl-nXleD4vjCuVgO9qvF4GcEke2nuUGP-gjbjIqez5AI&usqp=CAU"
+    }
+  ]
+  
