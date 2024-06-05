@@ -1,4 +1,5 @@
 import Footer from "./components/sections/Footer"
+import Subscribe from "./components/sections/Subscribe"
 
 
 function App() {
@@ -6,9 +7,11 @@ function App() {
   return (
     <div className="bg-black">
       <div className="max-w-[1440px] rounded-b-[4rem] mx-auto bg-[#F9EBFF]">
-        <div className="min-h-[80vh] bg-[#340253] rounded-b-[4rem]">full content</div>
+        <div className="min-h-[80vh] py-10 bg-[#340253] rounded-b-[4rem]">
+          <Subscribe/>
+        </div>
         <div>
-          <Footer></Footer>
+          <Footer/>
         </div>
       </div>
     </div>
