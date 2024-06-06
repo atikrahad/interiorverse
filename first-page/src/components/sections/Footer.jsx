@@ -1,9 +1,9 @@
 /* eslint-disable react/no-unescaped-entities */
-import logo from "../../assets/logo/logo.png";
 import img1 from "../../assets/footerimg/img1.png";
 import img2 from "../../assets/footerimg/img2.png";
 import { IoLocationOutline, IoCallOutline } from "react-icons/io5";
 import { TfiEmail } from "react-icons/tfi";
+import Logo from "../shared/Logo";
 
 const Footer = () => {
   return (
@@ -11,15 +11,7 @@ const Footer = () => {
       {/* ============= footer logo name with description============== */}
 
       <div>
-        <div className="flex items-center">
-          <img className="w-20" src={logo} alt="Site logo" />
-          <div className="">
-            <h1 className="text-4xl font-bold text-[#3C0089]">interiorVerse</h1>
-            <h4 className="text-xl font-semibold text-[#3C0089]">
-              by interio<span className="font-extrabold">Xr™</span>
-            </h4>
-          </div>
-        </div>
+        <Logo color={"text-[#3C0089]"}/>
         <p className="pl-2 mt-5 text-[#808080] text-justify">
           Welcome to interiorVerse, where design dreams come to life in
           breathtaking virtual reality! Step into a world of hyper-realistic and

@@ -2,3 +2,25 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
+.button {
+	cursor: pointer;
+	background: #7F1DFF;
+    
+	border: none;
+	border-radius: 10px;
+	box-shadow: -2px -2px 10px #9849FF, 5px 5px 15px #525151, inset 5px 5px 10px #9748FE, inset -5px -5px 10px #5614AC;
+	color: #fff;
+	font-size: 16px;
+}
+.button:hover {
+	cursor: pointer;
+	background: #fff;
+	
+	border: none;
+	border-radius: 10px;
+	box-shadow: -2px -2px 10px #9849FF, 5px 5px 15px #525151, inset 5px 5px 10px #fff, inset -5px -5px 10px #ABABAB;
+	color: #7F1DFF;
+	font-size: 16px;
+}
