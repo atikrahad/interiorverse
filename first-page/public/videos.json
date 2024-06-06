@@ -20,6 +20,28 @@
         "short_description": "A beginner's guide to yoga, focusing on basic poses and breathing techniques. Learn how to make delicious homemade pasta in a few simple steps.",
         "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSAwefe__RA-IiBX-S_ZCO7L-IyJTtNASQ_g&s"
     },
+    
+    {
+        "id": "4",
+        "video_title": "The History of Ancient Egypt",
+        "duration": "22:10",
+        "short_description": "Discover the rich history and culture of ancient Egypt in this detailed overview. Learn how to make delicious homemade pasta in a few simple steps.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTF8Xfr0LM4qLUlCpfq2tkBd-052K-Th4G7w&s"
+    },
+    {
+        "id": "3",
+        "video_title": "Yoga for Beginners",
+        "duration": "15:30",
+        "short_description": "A beginner's guide to yoga, focusing on basic poses and breathing techniques. Learn how to make delicious homemade pasta in a few simple steps.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSAwefe__RA-IiBX-S_ZCO7L-IyJTtNASQ_g&s"
+    },
+    {
+        "id": "5",
+        "video_title": "Top 10 Travel Destinations for 2024",
+        "duration": "10:20",
+        "short_description": "Check out the top travel destinations you should visit in 2024. Learn how to make delicious homemade pasta in a few simple steps.",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuR0_49hEZrL0hIPs7MK_JwfMU7GDVieCWkw&s"
+    },
     {
         "id": "4",
         "video_title": "The History of Ancient Egypt",
